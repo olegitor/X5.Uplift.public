@@ -1,6 +1,6 @@
 # X5.RetailHero.ai Uplift Modelling
 Решение для [ML соревнования по Uplift Modelling](https://retailhero.ai/c/uplift_modeling/overview)
-## Public Leadboard: 0,0955
+## Public Leadboard: 0,0977
 ## Описание подхода
 Всего фич: 139. Обычные фичи здорового человека:
   * Кол-во и сумма покупок, сгруппированные по часам и дням
